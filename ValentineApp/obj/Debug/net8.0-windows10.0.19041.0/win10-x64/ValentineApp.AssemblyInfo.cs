@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValentineApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1df9889b58691e8f4b1d8b6f27ef2a4631dbfd4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ee2435095cbaaf12790056ffb48e41e865eee153")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValentineApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValentineApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
