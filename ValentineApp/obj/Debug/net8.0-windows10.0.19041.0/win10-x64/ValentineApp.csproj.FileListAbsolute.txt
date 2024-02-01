@@ -179,3 +179,4 @@ C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10
 C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ValentineApp.sourcelink.json
+C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\questioncat.scale-100.jpg

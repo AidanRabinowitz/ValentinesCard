@@ -226,6 +226,9 @@
     <AppxPackagedFile Include="C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\happycat.scale-100.jpg">
       <PackagePath>happycat.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\questioncat.scale-100.jpg">
+      <PackagePath>questioncat.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\aidan\source\repos\ValentineApp\ValentineApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sadcat.scale-100.jpg">
       <PackagePath>sadcat.scale-100.jpg</PackagePath>
     </AppxPackagedFile>

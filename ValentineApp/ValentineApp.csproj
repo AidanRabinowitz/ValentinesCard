@@ -58,6 +58,7 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\HappyCat.jpg" />
+	  <None Remove="Resources\Images\questioncat.jpg" />
 	  <None Remove="Resources\Images\SadCat.jpg" />
 	</ItemGroup>
 

@@ -36,6 +36,9 @@ namespace ValentineApp
         {
             await TransitionImage("sadcat.jpg");
             await PlayAudio("SadSong.mp3");
+            // Animate the "No" button to move off the screen
+            await noButton.TranslateTo(noButton.X - 200, noButton.Y, 1000, Easing.SinInOut);
+            noButton.IsEnabled = false; // Disable the button to prevent further clicks
         }
 
         private async Task TransitionImage(string imagePath)
@@ -99,5 +102,14 @@ namespace ValentineApp
             currentAudioPlayer?.Stop();
             currentAudioPlayer?.Dispose();
         }
+        private async void OnResetClicked(object sender, EventArgs e)
+        {
+            // Reset the necessary components to their initial state
+            backgroundImage.Source = "questioncat.jpg";
+            titleLabel.Text = "Will You Be My Valentine?";
+            yesButton.IsEnabled = true;
+            noButton.IsEnabled = true;
+        }
     }
+
 }
